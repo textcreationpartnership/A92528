@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of the Convention of the Estates, to the remonstrance and desires of the Commissioners of the Generall Assembly, concerning the dangers of religion: with a second remonstrance of the Commissioners of the Generall Assembly, to the honourable Convention of Estates, concerning the remedies of the dangers of religion. July 6. 1643. At Edinburgh the 13. of July, 1643. Entred into the register book at Stationers Hall according to order,</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92528</idno><idno type="EEBO-CITATION">99873436</idno>
+  <idno type="VID">125908</idno>
+  <idno type="EEBO-PROQUEST">2248523622</idno>
+  
+            <idno type="STC">Wing S1182</idno>
+            <idno type="STC">Thomason E65_14</idno>
+            <idno type="STC">ESTC R8960</idno>
+            <idno type="PROQUEST">99873436</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873436e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E65[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of the Convention of the Estates, to the remonstrance and desires of the Commissioners of the Generall Assembly, concerning the dangers of religion: with a second remonstrance of the Commissioners of the Generall Assembly, to the honourable Convention of Estates, concerning the remedies of the dangers of religion. July 6. 1643. At Edinburgh the 13. of July, 1643. Entred into the register book at Stationers Hall according to order,</title>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Edinburgh, Printed by Evan Tyler, printer to Kings most Excellent Majesty, and reprinted at London for Tho: Vnderhill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland. --  General Assembly. --  Commission --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Church and state --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125908:1"/>
+            <p>THE ANSWER OF THE CONVENTION OF THE ESTATES, To the <hi>Remonstrance</hi> and <hi>Desires</hi> of the <hi>Com<g ref="char:EOLhyphen"/>missioners</hi> of the Generall Assembly, Concerning the dangers of <hi>Religion: WITH</hi> A second <hi>Remonstrance</hi> of the <hi>Commissioners</hi> of the Generall Assembly, To the Honourable <hi>Convention</hi> of <hi>Estates, Concerning the Remedies of the Dangers of Religion.</hi>
+            </p>
+            <p>July 6. 1643.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>At Edinburgh <date>the 13. of <hi>Iuly,</hi> 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>IT is this day thought fit and ordained by the Convention of Est<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tes, that their Answer to the Remonstrance of the Commissioners of the Assembly: Together with this second Remonstrance given in to them by the saids Com<g ref="char:EOLhyphen"/>missioners concerning the Remedies of the present dangers of Religion, be forthwith printed, And that their presents be warrand for the effect.</p>
+                        <closer>
+                           <signed>
+                              <hi>Arch. Primerose</hi> Cler. Conven.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Entred into the Register book at Stationers Hall according to order,</p>
+            <p>
+               <add>Aug: 16</add>
+               <hi>EDINBVRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings most Excellent Majesty, and Reprinted at <hi>London</hi> for <hi>Tho: Vnderhill.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:125908:2"/>
+            <head>The Answer of the Convention of the E<g ref="char:EOLhyphen"/>states, to the Remonstrance and Desires of the Com<g ref="char:EOLhyphen"/>missioners of the General Assembly. 4. <hi>Iuly</hi> 1643.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Convention of the Estates of the Kingdom having more particularly perused the Remonstrance, and Desires of the Commissioners of the Generall Assembly, do acknow<g ref="char:EOLhyphen"/>ledge, and with great care and solicitude of heart, resent the dangers of the Reformed Religion: partly, from the rebellious attempts of Papists in Ireland: partly, from their power in England where they are so long in arms: and partly, from their hopes in this Kingdom where they have their plots and correspon<g ref="char:EOLhyphen"/>dence amongst themselves, and with their confederates abroad: And all these the greater and the more to be taken to heart at this time, that they have the pretence of the Kings Service and Authority, the confidence of the Queens zeal to their profession, and her power to promote their de<g ref="char:EOLhyphen"/>signes, and the assistance of the Prelaticall partie, and of Malignants, and many others, whom upon natural and worldly respects they have drawn against the oath of their Covenant into their secret, and have united into their Combination.</p>
+            <p>These and the like dangers expressed more fully in the Remonstrance, may be more then sufficient to awake and stir up this Kirk and Kingdom, to provide for the preservation of Religion, the safety of the King, and se<g ref="char:EOLhyphen"/>curitie of the Kingdom, which at this time in realitie can no more be se<g ref="char:EOLhyphen"/>parated and divorced then in former times, when it was professed both by King and people, that the dangers of on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were the dangers of all, that they had the same common friends and enemies, and did stand &amp; fal toge<g ref="char:EOLhyphen"/>ther. But while the Estates are thinking upon that which is remon<g ref="char:EOLhyphen"/>strated unto them, many other dangers and distresses, which more di<g ref="char:EOLhyphen"/>rectly and immediatly threaten and presse this Countrey and Kingdom, offer themselves to be considered, and are necessary to be universally known, that all men, even such as all this time have never taken Religion
+<pb n="2" facs="tcp:125908:2"/> to Heart, may be made sensible of the present danger of their native Coun<g ref="char:EOLhyphen"/>trey, wherein the private danger of every mans life, liberty, estate, and meanes is included.</p>
+            <p>The Lords of Privie C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unsell, and the Commissioners for conserving the peace, have allready declared, That a treacherous and damnable plot of the Irish, English, and Scottish Papists was begun to be discovered by letters found with the Earle of <hi>Antrim,</hi> and by the deposition of one of his servants at his death: Now the deposition of the Earle himself and of another of his servants, both upon their oaths, have been read in face of the convention, confirming what was written before of sending Ammu<g ref="char:EOLhyphen"/>nition to the North, and leavying of forces in this Kingdome, and bearing that the Earle had instructions for making peace betwixt the English and Irish in Ireland: Like as diverse letters are sent hither concerning a Ces<g ref="char:EOLhyphen"/>sation of Armes in Ireland, and the joyning of the English and Irish for<g ref="char:EOLhyphen"/>ces upon oath, to go for England to assist the King, as is pretended, but in<g ref="char:EOLhyphen"/>deed to strengthen and aide the Popish and prelaticall party.</p>
+            <p>Our Merchants and Marriners are not onely stopped and discouraged in their trade by Ships, Frigots and Fly-botes of Dunkirk, and of Ireland, having Irish Commanders and Souldiers, but their Ships either taken or burnt; they spoyled of their goods and moneyes, and their persons tortu<g ref="char:EOLhyphen"/>red, kept Captives, or sent away naked: Whereby his Majesties Subjects have suffered more by Sea upon the sudden, and in a very short time, then they did suffer all the time of our late troubles; And no other cause of all this violence and cruelty pretended, but a Commission and Warrant from Authority.</p>
+            <p>The Earle of Newcastles Forces, Horse and Foot, in great numbers ly<g ref="char:EOLhyphen"/>ing at the Borders, and ready when they shall be commanded to make incursion upon the South parts of the Kingdom, as many ill-affected are no lesse willing to make trouble in the North.</p>
+            <p>If the unhappy differences between his Majesty and his Parliament, shall not be determined in a Parliamentarie way, but by the Sword; Not onely shall the Army in Ireland be in danger to be lost, but the whole Kingdome will be involved in the common Calamity.</p>
+            <p>Nor is it wisdome, against the continuall rumours and threatnings of forraign invasion, to be so negligent and secure, as if there were no ap<g ref="char:EOLhyphen"/>pearance or possibility of danger from without; experience hath proved the contrary in former times. And although there were no other ground,
+<pb n="3" facs="tcp:125908:3"/> Reason doth teach that Princes and States use to observe the opportunities of divisions and breaches amonst their neighbours.</p>
+            <p>Although the causes of calling a Convention at this time were urgent enough, yet the providence of God watching ov<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r this Kirk and King<g ref="char:EOLhyphen"/>dom for good, hath discovered diverse of the dangers of Religion and of the Kingdom, and brought them to light in this opportunity, while the Convention of Estates are sitting, as if they had been called together to be inf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of them, and to provide remedies against them. And there<g ref="char:EOLhyphen"/>fore as the Conven<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion is resolved to take this matter, which is of so public<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and deep concernment, into their serious consideration; so do they d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sire and require that the Commissioners of the Assemblie (who according to their duty, and the laudable example of the Assemblies of this Kirk in former times have represented the dangers of Religion) will also with diligence think upon the best and most powerfull remedies, and remonstrate them to the Convention, that by the blessing of God up<g ref="char:EOLhyphen"/>on their j<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynt endeavours, so many approaching and imminent miseries may be turned away: And the Religion and Peace, which God Almigh<g ref="char:EOLhyphen"/>ty of his singular mercy hath granted to this Kirk and Kingdom, may be preserved and transmitted unto the after Generations. Which shall be honour to God, safety to the King and his posteritie, and happinesse to his people.</p>
+            <closer>
+               <signed>
+                  <hi>Arch. Primerose</hi> Cler. Conven.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>To the Honourable Convention of Estates,</hi> The humble Remonstrance of the Commissioners of the Generall Assembly, Concerning the Remedies of the present Dangers of Religion, <hi>July 6. 1643.</hi>
+            </head>
+            <p>ALthough it be more easie, especially in a time of many corruptions and great difficulties, to complain of diseases and dangers, then to finde out the right cure and remedies: Yet from our conscienc of dutie in the charge committed unto us at this time, from our confidence in God, whose providence hath discovered the dangers, and will in his own time provide sufficient remedies, by the example of the Generall Assemblies of this Kirk, and in obedience to your Lordships commands, we finde a necessity laid upon us, and are most willing, according to our knowledge, to show what we conceive to be the best remedies, leaving the further consideration of them to your Lordships wisdom.</p>
+            <pb n="4" facs="tcp:125908:3"/>
+            <p>Politick and wordly men are indifferently disposed towards every Re<g ref="char:EOLhyphen"/>ligion, and do conceive that the knowlege of a few principles, joyned with the profession of Religion, is sufficient for Salvation, without de<g ref="char:EOLhyphen"/>scending into particular Differences and Controversies: But this cannot be a remedy, for we know that Heresies and Sects have been of old, and must still be, that these who are approved may be made known. Recon<g ref="char:EOLhyphen"/>cilers, who under the specious pretext of Pacification betwixt Prote<g ref="char:EOLhyphen"/>stants and Papists, intend no other thing, but in a subtile and crafty way to reduce the Protestant Kirks into Antichristian servitude, and in the gold<g ref="char:EOLhyphen"/>en cup of the whore of Babel, to propine again unto us all their abomina<g ref="char:EOLhyphen"/>tions and filthinesse. These are also to be rejected and abhorred, as pre<g ref="char:EOLhyphen"/>senting us with deadly poyson in stead of remedies.</p>
+            <p>A third there is, but an insufficient remedy; Wee do with all thankful<g ref="char:EOLhyphen"/>nesse and reverence, as becometh good Subjects receive the Kings Maje<g ref="char:EOLhyphen"/>sties Declaration of His Intentions, for maintaining our Religion, and esteem it no small happinesse to live under a Prince orthodox in the faith, and a Nurse-father of the Kirk: But His Majesties Disposition to Religi<g ref="char:EOLhyphen"/>on, can neither oblige His Royall Successours, as the frequent change of Religion in England, and other kingdoms, with the change of their Prin<g ref="char:EOLhyphen"/>ces, hath taught us; Nor can it preserve us from the plots and power of Papists, as we have even now learned from the conspiracie of the Irish, English, and Scottish papists: If they have been devising mischief against us in the very time of His Majesties Declaration, what may be in all rea<g ref="char:EOLhyphen"/>son expected afterward from the immortall hatred, and unc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssant work<g ref="char:EOLhyphen"/>ing? And what may we look for presently, if w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ile they are now in Armes, their fury shall have successe, and they suffered to prevaile? We pray, <hi>God save the King:</hi> but we may say, <hi>Cursed be their anger, for it is fierce, and their wrath, for it is cruell.</hi>
+            </p>
+            <p>The first true remedy, which Christian Piety and Prudence minister unto us, is, to receive the Love of the Truth, and to labour for the Power of Godlinesse. It is never enough observed, That Papistry, Arminia<g ref="char:EOLhyphen"/>nisme, and diversity of sects, are the just judgement of God upon many in the Reformed Kirks for their formality in Religion: Without this one remedy, all other remedies will want the blessing of God, and prove un<g ref="char:EOLhyphen"/>profitable.</p>
+            <p>A second remedy is to abhorre and detest Poperie, not upon conceit or common opinion, but from the particular and distinct knowledge of the
+<pb n="5" facs="tcp:125908:4"/> grosse heresies in doctrine, manifold idolatry in worship, and cruel tyran<g ref="char:EOLhyphen"/>nie in governement, which it teacheth, defendeth, and practiseth; from which the Lord in a wonderfull mercy hath delivered us; against which so many thousands of the holy and faithfull Martyrs of Christ, have born record of the word of God, and testimonie of Jesus Christ, and washen their robes in the bloud of the Lambe; And by which the Lord suffereth us and other Reformed Kirks this day to be threatned again, because we have been unthankful for our deliverance, not knowing the greatnes of the ill from which we have been delivered, nor consid<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring the heavinesse of that Antichristian yoke, if it shall be again wreathed upon our necks: Which would to God all Kings, Princes, Republikes &amp; people would take to heart.</p>
+            <p>The third is, that all true Patriots and Professours of the reformed Re<g ref="char:EOLhyphen"/>ligion, may learn to discerne and know the enemies of the Kirk; which will be found not to be Papists onely, but Malignants also; who under colour of the same profession with us, oppose themselves to the preserva<g ref="char:EOLhyphen"/>tion of Religion here, unto the reformation of Religion in England, no lesse then Papists; who make bands contrary or prejudicial unto our Na<g ref="char:EOLhyphen"/>tionall Covenant; who frame and present Petitions, crossing the Petitions of the Commissioners of the Generall Assembly; give information to the Kings Majesty contrary to the informations of the Kirk and Kindome; do oppose the publishing of the necessary Declarations of the Kirk; reade papers in the Assemblies of Gods people without warrant from the Kirk; and offer to Presbyteries in all the quarters of the Kingdome, papers con<g ref="char:EOLhyphen"/>trary to the Declarations of the Commissioners of the Assembly; do hold their meetings against the Convention of Estates; and if they could finde Ministers to joyne with them, would keep Ecclesiasticall Assemblies against the Assemblies of the Kirk: Which is the most factious, the most scandalous, and the most dangerous way of division and separation that hath been heard of in any Kirk or Kingdom: And therefore by Ecclesia<g ref="char:EOLhyphen"/>stick censures and civil punishments, to be speedily and powerfully sup<g ref="char:EOLhyphen"/>pressed as a most pernicious practice, tending to the destruction both of Religion and Peace of this Kingdome, and directly opposite to the pro<g ref="char:EOLhyphen"/>pagation of the Gospell, and reformation of other Kirks, which God by his providence is bringing to passe, and is ardently desired, and constant<g ref="char:EOLhyphen"/>ly hoped for by all the godly.</p>
+            <p>The fourth is, If after all good means are used to reduce the enemies of Religion, whether Papists or Malignants, to repentance and obedience, the Kirk be constrained by their obstinacy to proceed to the sentence of
+<pb n="6" facs="tcp:125908:4"/> Excommunication; Some solid course may be taken, that the civil punish<g ref="char:EOLhyphen"/>ment, which is according to Law, may be really and timously inflicted, that neither the Law be eluded, nor any delinquent for his greatnesse, or any other respect, be exempted or spared.</p>
+            <p>The fifth is, Because through want o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sure and timous intelligence, a great part of the people are either left to uncertaine rumours, or slighted by the negligence of common bearers, or abus d with malignant infor<g ref="char:EOLhyphen"/>mations, that they neither know their own danger, nor the danger of Re<g ref="char:EOLhyphen"/>ligion and Countrey; A solid order would be set down whereby intelli<g ref="char:EOLhyphen"/>gence may go forth from Edinburgh to every Shire, and so to every Pres<g ref="char:EOLhyphen"/>bytery and particular Pastor, that the people may be informed both of their danger and duty; and an account taken of the faithfulnesse of men, to whom matters of so necessary and publick concernment shall be com<g ref="char:EOLhyphen"/>mitted, and of particular Ministers how they acquit themselves in mat<g ref="char:EOLhyphen"/>ters of so great trust.</p>
+            <p>The sixth is, That for the more speciall applying of some Clauses of our Nationall Covenant against the present evill, certaine Articles may be framed to be subscribed and consented unto by all the well affected; that we may be more strongly united amongst our selves in the cause of God; and that all Malignants and secret enemies, who hide themselves under their subscription of the Covenant, may be discerned and discovered.</p>
+            <p>The seventh is, That a Remonstrance be sent to the Kings Majesty from the Honourable Convention of Estates, expressing the present dangers of the Kirk and Kingdome, with a renewed supplication for unity in Reli<g ref="char:EOLhyphen"/>gion, and uniformity of Kirk government, for disbanding of all Popish forces, and for using of meanes for the Queenes conversion.</p>
+            <p>The eighth is, Although we be very wel assured of the Wisedome and good Affection of this Honourable Convention, for which as a meane of great happinesse to this Kirk and Kingdome at this time, we heartily blesse the Lord: Yet from the necessity of our duty, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch inforceth us to exhort civill powers to all Vigilancie and Faithfulnesse, and according to the laudable example of the Generall Assemblies of this Kirk in former times of publike danger, We must crave leave to intreat and excite your Lordships speedily to think<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and resolve upon the best wayes, for the safe<g ref="char:EOLhyphen"/>ty and security of the Kingdome against insurrection of Papists and Ma<g ref="char:EOLhyphen"/>lignants from within, and invasion from without; which may also be a meane to try and discover the minds of the disaffected; and to commit so great trust to none, but to such as are knowne to be zealous of the safety
+<pb n="7" facs="tcp:125908:5"/> of Religion, of the Kings honour, and peace of the Kingdome.</p>
+            <p>The ninth is, Because the hearts of peopl are secure and slow in ap<g ref="char:EOLhyphen"/>prehending danger, and the enemies suggest that there is not any great cause of feare; whensoever any letters of negotiation and traffique be<g ref="char:EOLhyphen"/>twixt Papists and Malignants here, and in other places, are intercepted, or any plots or conspiraci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s discovered, the same without respect to any persons whatsoever, may be published in print, and sent through the Kingdome, that all may be warned of the danger, and be in redinesse to use the best meanes for their safety, and that such wicked instruments may be censured and punished.</p>
+            <p>The tenth is, That for the credit of the Gospel, for keeping the publick Faith of the Kingdome, and for promoting the desired and intended U<g ref="char:EOLhyphen"/>nity in Religion, and Uniformity of Kirk-government, all the Articles of the Treaty of Peace betwixt the two Kingdomes, be inviolably obser<g ref="char:EOLhyphen"/>ved, and justice done without partiality upon the controveeners. And forasmuch as at the time of Reformation, and in our late Declarations and Remonstrances, in the time of our troubles and since, the expressions of our desires of unitie, and amitie with the Kingdome of England, have beene many and large: and we have many times from our feeling and feares, made open profession, that the not reforming, or the en<g ref="char:EOLhyphen"/>dangering of Religion there, hath an influence upon our Religion, and the mutuall Peace of the Kingdomes: We doe humbly entreat, according to the example of the Generall Assemblies of this Kirk, that this honou<g ref="char:EOLhyphen"/>rable Convention may be pleased to take into their gravest consideration, the renewing of the League and Association with England, for defence of Religion against the common Enemy, and how far the same may be ex<g ref="char:EOLhyphen"/>tended against Prelacie and Popish Ceremonies, for uniformity in exter<g ref="char:EOLhyphen"/>nall worship and Kirk-government.</p>
+            <p>Thus have we pointed at the principall remedies, which we humbly present to be more particularly resolved upon by this honourable Con<g ref="char:EOLhyphen"/>vention as a matter worthy of the gravest deliberation, and the greatest care and diligence: wherein, as we shall be required, we shall most wil<g ref="char:EOLhyphen"/>lingly according to our place and calling, contribute our counsels and en<g ref="char:EOLhyphen"/>deavours, beseeching God, who never forsaketh his people, when trouble draws near, first to direct, and next to fulfill all your counsels to his own glory, and the publick good.</p>
+            <closer>
+               <signed>
+                  <hi>A. Ker</hi> Cler. Com. Gen. Ass.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
